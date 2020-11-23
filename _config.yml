@@ -23,7 +23,7 @@ title: ElementZero
 description: >-
   Run the windows version of BDS in linux,
   with mod support.
-baseurl: ""
+baseurl: "/Element-0.github.io"
 url: "https://elementzero.github.io"
 github_username: Element-0
 
